@@ -1,3 +1,6 @@
 venv/
 .idea/
 w02/volumes.txt
+w05/.pytest_cache
+.pytest_cache/
+w05/__pycahce__/
